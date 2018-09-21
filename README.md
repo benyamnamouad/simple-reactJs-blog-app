@@ -1,5 +1,5 @@
 # simple-blog-app
-A simple blog app using ReactJs and Redux 
+A simple blog app using ReactJs and Redux using Axios to fetch data.
 Credits: [Stephen Grider](https://github.com/StephenGrider) Fom his tutorial
 
 # instalation 
